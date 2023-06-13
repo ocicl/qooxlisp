@@ -4,7 +4,7 @@ The Last Web App Framework You Will Ever Evaluate: qooxdoo, Lisp, and Cells
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/kennytilton/qooxlisp.git   |
-| commit  | {"messa  |
+| commit  | e15becc  |
 | systems | qooxlisp |
 |---------+-------------------------------------------|
 
